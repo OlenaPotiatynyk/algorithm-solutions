@@ -6,6 +6,8 @@
 // Return the minimum number of moves required to move each student to a seat such that no two students are in the same seat.
 // Note that there may be multiple seats or students in the same position at the beginning.
 //
+// 🔗 https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
+//
 // 🧠 **Algorithm:** Greedy
 // 🟢 **Difficulty:** Easy
 // 📄 **Explanation**: Greedy assignment after sorting ensures optimal pairing.

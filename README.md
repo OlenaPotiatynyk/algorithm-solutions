@@ -11,7 +11,8 @@ Welcome to the **Algorithm Practice Project**! This repository is a curated coll
 * Always makes the optimal choice at each step.
 * Example problems:
 
-    * ~~[122. Best Time to Buy and Sell Stock II](./greedy/best-time-to-buy-sell-stock-ii.js)~~
+    * [121. Best Time to Buy and Sell Stock](./greedy/best-time-to-buy-sell-stock.js)
+    * [122. Best Time to Buy and Sell Stock II](./greedy/best-time-to-buy-sell-stock-ii.js)
     * ~~[134. Gas Station](./greedy/gas-station.js)~~
     * [2037. Minimum Number of Moves to Seat Everyone](./greedy/2037-minimum-number-of-moves-to-seat-everyone.js)
 
