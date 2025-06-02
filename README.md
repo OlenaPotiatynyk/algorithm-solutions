@@ -14,6 +14,7 @@ Welcome to the **Algorithm Practice Project**! This repository is a curated coll
     * [121. Best Time to Buy and Sell Stock](./greedy/121-best-time-to-buy-and-sell-stock.js)
     * [122. Best Time to Buy and Sell Stock II](./greedy/122-best-time-to-buy-and-sell-stock-ii.js)
     * ~~[134. Gas Station](./greedy/134-gas-station.js)~~
+    * [409. Longest Palindrome](./greedy/409-longest-palindrome.js)
     * [2037. Minimum Number of Moves to Seat Everyone](./greedy/2037-minimum-number-of-moves-to-seat-everyone.js)
 
 ### 2. Two Pointers
