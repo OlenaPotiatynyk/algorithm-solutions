@@ -37,7 +37,7 @@ Welcome to the **Algorithm Practice Project**! This repository is a curated coll
 * Efficient storage and lookup.
 * Example problems:
 
-    * ~~[1. Two Sum](./hashmap/1-two-sum.js)~~
+    * [1. Two Sum](./hashmap/1-two-sum.js)
     * ~~[128. Longest Consecutive Sequence](./hashmap/128-longest-consecutive.js)~~
 
 ### 5. Sorting
