@@ -15,6 +15,8 @@ Welcome to the **Algorithm Practice Project**! This repository is a curated coll
     * [122. Best Time to Buy and Sell Stock II](./greedy/122-best-time-to-buy-and-sell-stock-ii.js)
     * ~~[134. Gas Station](./greedy/134-gas-station.js)~~
     * [409. Longest Palindrome](./greedy/409-longest-palindrome.js)
+    * [1221. Split a String in Balanced Strings](./greedy/1221-split-a-string-in-balanced-strings.js)
+    * [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./greedy/1689-partitioning-into-minimum-number-of-deci-binary-numbers.js)
     * [2037. Minimum Number of Moves to Seat Everyone](./greedy/2037-minimum-number-of-moves-to-seat-everyone.js)
 
 ### 2. Two Pointers
